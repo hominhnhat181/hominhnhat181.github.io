@@ -1,0 +1,325 @@
+* {
+    font-family: 'Josefin Slab', serif;
+}
+
+.main {
+    background-image: url(images/header-fixed.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.items {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    height: 200px;
+}
+
+.col-md-4 i {
+    padding: 0 5px;
+}
+
+.row .col-md-8 a {
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-family: 'Roboto';
+    color: black!important;
+}
+
+.row a:hover {
+    color: rgb(180, 174, 83)!important;
+}
+
+.banner {
+    padding-top: 18%;
+    padding-bottom: 20%;
+}
+
+.title_banner a {
+    color: black;
+    font-family: 'roboto';
+    padding: 0 10px;
+    text-decoration: none!important;
+}
+
+.title_banner a:hover {
+    color: rgb(180, 174, 83);
+}
+
+.title_banner img {
+    height: 100px;
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+.content_banner {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.content_banner span {
+    color: peru;
+}
+
+.icons {
+    padding-top: 20px;
+}
+
+.icons :hover {
+    color: rgb(180, 174, 83)!important;
+}
+
+.icons a {
+    color: black;
+}
+
+.header {
+    background-color: rgb(250, 250, 250);
+}
+
+.carousel-inner {
+    max-width: 1480px;
+    max-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.carousel .d-block {
+    width: 1200px;
+    height: 500px;
+}
+
+.box-if {
+    background-color: rgba(22, 21, 21, 0.884);
+    border-radius: 10px!important;
+    height: 350px;
+    margin: 15px;
+    margin-left: 20px;
+    margin-right: -10px;
+}
+
+img.son {
+    margin-top: 60px;
+    margin-left: 40px;
+    width: 150px;
+    height: 150px;
+}
+
+.artic-title {
+    border-radius: 10px!important;
+    background-color: rgba(22, 21, 21, 0.856);
+    border-bottom: 1px solid rgb(97, 96, 96);
+    padding: 0;
+    min-height: 40px;
+    text-align: center;
+    height: 45px;
+}
+
+.caption .caption-subject {
+    margin-top: 7px;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 18px;
+    padding: 7px 0;
+    color: rgb(216, 207, 165);
+}
+
+.form-body {
+    padding: 15px;
+}
+
+.horizontal {
+    font-size: 16px;
+    color: rgb(189, 143, 124);
+}
+
+.song {
+    color: white;
+}
+
+.form-horizontal {
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.song:hover {
+    color: rgb(180, 174, 83)!important;
+}
+
+.something {
+    background-color: rgba(22, 21, 21, 0.884);
+    border-radius: 10px!important;
+    height: 350px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.new-title {
+    border-radius: 10px!important;
+    background-color: rgba(22, 21, 21, 0.856);
+    border-bottom: 1px solid rgb(97, 96, 96);
+    min-height: 40px;
+    height: 45px;
+}
+
+.caption-new .caption-subject {
+    display: inline-block;
+    color: rgb(216, 207, 165);
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 4px;
+    padding: 10px 40px;
+}
+
+.boss {
+    margin: 15px;
+    height: 270px;
+}
+
+.event-caption {
+    font-size: 17px;
+    margin-left: -140px;
+    margin-top: 20px;
+    color: rgb(189, 143, 124);
+}
+
+.event-word {
+    font-size: 14px;
+    color: white;
+    margin-left: -140px;
+    margin-top: 20px;
+}
+
+.continue-button {
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.button-text {
+    color: white;
+}
+
+.button-text:hover {
+    color: rgb(216, 207, 165);
+}
+
+.ft-2 {
+    height: 600px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.mv {
+    border-radius: 70px;
+}
+
+.picture-title {
+    border-radius: 10px!important;
+    background-color: rgba(22, 21, 21, 0.986);
+    border-bottom: 1px solid rgb(97, 96, 96);
+    min-height: 40px;
+    height: 45px;
+    margin-top: 5px;
+}
+
+.picture-caption .caption-subject {
+    display: inline-block;
+    color: rgb(216, 207, 165);
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 4px;
+    padding: 10px 40px;
+}
+
+.picture-content .carousel .carousel-inner .d-block {
+    max-height: 305px;
+    width: 100%;
+}
+
+.picture-content .carousel .carousel-inner {
+    border-radius: 60px;
+    margin-top: 15px;
+    width: 357px;
+}
+
+.schedule-title {
+    margin-top: 5px;
+    margin-right: 20px;
+    border-radius: 10px!important;
+    background-color: rgba(22, 21, 21, 0.986);
+    border-bottom: 1px solid rgb(97, 96, 96);
+    min-height: 40px;
+    height: 45px;
+    width: 330px;
+    margin-left: 10px;
+}
+
+.schedule-title .caption-subject {
+    display: inline-block;
+    color: rgb(216, 207, 165);
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 4px;
+    padding: 10px 40px;
+}
+
+.thank {
+    background-color: rgba(22, 21, 21, 0.856);
+    border-radius: 40px!important;
+    height: 165px;
+    margin-top: -210px;
+    margin-right: 10px;
+}
+
+.img-icon img {
+    width: 100px;
+    height: 80px;
+}
+
+.img-icon {
+    text-align: center;
+}
+
+.thank-text-inner {
+    text-align: center;
+}
+
+.thank-text-inner .caption-subject {
+    color: white;
+}
+
+.bot-caption .botlane {
+    margin-top: 200px;
+    max-width: 200px;
+    max-height: 150px;
+}
+
+.bot-caption {
+    text-align: center;
+}
+
+.bot-column {
+    padding: 80px 150px 0;
+}
+
+.bot-column .caption-subject1 {
+    font-size: 20px;
+    color: rgb(180, 157, 56);
+}
+
+.lich {
+    width: 820px;
+    height: 380px;
+    margin-left: -235px;
+    margin-top: -30px;
+}
+
+.img-icon .heart {
+    width: 200px;
+    height: 100px;
+}

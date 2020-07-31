@@ -1,0 +1,48 @@
+.banner {
+    margin-bottom: -200px;
+}
+
+.tour {
+    background-color: rgba(190, 184, 184, 0.452);
+    border-radius: 10px;
+    height: 100%;
+}
+
+.tour-caption {
+    background-color: rgba(0, 0, 0, 0.986);
+    border-bottom: 1px solid rgb(97, 96, 96);
+    height: 50px;
+    text-align: center;
+    border-radius: 10px!important;
+}
+
+.tour-caption .caption-subject {
+    display: inline-block;
+    color: rgb(216, 207, 165);
+    font-size: 34px;
+}
+
+.tour-info {
+    float: left;
+    padding: 30px 30px;
+}
+
+.tour-word .caption-subject {
+    display: inline-block;
+    color: rgb(37, 35, 34);
+    font-size: 20px;
+}
+
+.tour-video {
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.tour-picture {
+    text-align: center;
+}
+
+.tour-picture .tour-pic {
+    padding: 30px 0;
+}

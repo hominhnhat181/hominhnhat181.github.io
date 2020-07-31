@@ -1,0 +1,26 @@
+.banner {
+    margin-bottom: -200px;
+}
+
+.video {
+    background-color: rgba(190, 184, 184, 0.452);
+    border-radius: 10px;
+}
+
+.video-caption {
+    background-color: rgba(0, 0, 0, 0.986);
+    border-bottom: 1px solid rgb(97, 96, 96);
+    height: 50px;
+    text-align: center;
+    border-radius: 10px!important;
+}
+
+.video-caption .caption-subject {
+    display: inline-block;
+    color: rgb(216, 207, 165);
+    font-size: 34px;
+}
+
+.video-content {
+    padding: 15px 30px;
+}
